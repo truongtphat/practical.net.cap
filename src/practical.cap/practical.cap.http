@@ -1,0 +1,6 @@
+@practical.cap_HostAddress = http://localhost:5056
+
+GET {{practical.cap_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
